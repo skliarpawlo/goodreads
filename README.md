@@ -14,6 +14,30 @@ Goodreads API (each book has assigned list of "similar books", check any book de
 Suggest how to improve quality of your recommendations, i.e. using information on authors, topics,
 shelves, friends activity etc.
 
+1. Simple improvements
+ - Top books of the same author
+ - Top books on the same topic
+ - Analyze books which are planned to read
+
+2. Recommender systems theory:
+ - Collabirative filtration: what do friends of mine read, who have good intersection of interests (on books, topics, etc.)
+ - Figure out similar profiles using cosine distance of books read
+ - Propose books out of intersection
+
+3. Cosine distance between books:
+ - Features could be:
+   - genre
+   - rating
+   - page count
+   - age category
+   - use shelves counts as feature vector
+   - etc
+Now we have a book represented as a vector, so we can get look for other books closer by cosine distance.
+
+4. Measurements:
+ - collect data about how current recommender system works in real world. Apply A/B testing to be able to compare how each of them performs.
+
+
 ## Links
 
 * [Documentation](https://www.goodreads.com/api/index)
