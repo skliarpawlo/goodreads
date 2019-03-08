@@ -9,7 +9,7 @@
             [manifold.deferred :as d]
             [manifold.stream :as s]))
 
-(defn build-recommentations [{:keys [user-id n token]}]
+(defn build-recommendations [{:keys [user-id n token]}]
   (let [user-books (collect-user-books user-id token)
         books-read (d/chain user-books (filter-by-shelf "read"))
         books-reading (d/chain user-books (filter-by-shelf "currently-reading"))
@@ -55,7 +55,7 @@
       :else (let [config {:token (first args)
                           :user-id (:user-id options)
                           :n (:number-books options)}
-                  books (-> (build-recommentations config)
+                  books (-> (build-recommendations config)
                             (d/timeout! (:timeout-ms options) ::timeout)
                             deref)]
               (cond

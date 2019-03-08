@@ -3,9 +3,7 @@
             [clojure.data.xml :as dx]
             [clojure.data.zip.xml :refer [xml-> xml1->]]
             [manifold.deferred :as d]))
-
-;; book page
-;; https://www.goodreads.com/book/show/50.xml
+;; book page ;; https://www.goodreads.com/book/show/50.xml
 
 (defn -tag-content [tag]
   (-> tag first :content first))

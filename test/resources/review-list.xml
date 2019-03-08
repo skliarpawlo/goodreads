@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[1KAwQMRHOR5GzVMU3ciOMg]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+<reviews start="1" end="3" total="3">
+    <review>
+  <id>2743181706</id>
+    <book>
+  <id type="integer">5</id>
+  <isbn>043965548X</isbn>
+  <isbn13>9780439655484</isbn13>
+  <text_reviews_count type="integer">33223</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.om7j-Dd6wInrhO7TVy51Ow</uri>
+  <title>Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</title>
+  <title_without_series>Harry Potter and the Prisoner of Azkaban</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1499277281m/5.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1499277281s/5.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban</link>
+  <num_pages>435</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>2300405</ratings_count>
+  <description>Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry. Now Hogwarts is being patrolled by the dementors, the Azkaban guards who are hunting Sirius. But Harry can't imagine that Sirius or, for that matter, the evil Lord Voldemort could be more frightening than the dementors themselves, who have the terrible power to fill anyone they come across with aching loneliness and despair. Meanwhile, life continues as usual at Hogwarts. A top-of-the-line broom takes Harry's success at Quidditch, the sport of the Wizarding world, to new heights. A cute fourth-year student catches his eye. And he becomes close with the new Defense of the Dark Arts teacher, who was a childhood friend of his father. Yet despite the relative safety of life at Hogwarts and the best efforts of the dementors, the threat of Sirius Black grows ever closer. But if Harry has learned anything from his education in wizardry, it is that things are often not what they seem. Tragic revelations, heartwarming surprises, and high-stakes magical adventures await the boy wizard in this funny and poignant third installment of the beloved series.&lt;br /&gt;--scholastic.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>21364220</ratings_count>
+<text_reviews_count>523062</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="306882008" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 08 11:34:56 -0800 2019</date_added>
+  <date_updated>Fri Mar 08 11:34:56 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2743181706]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2743181706]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2743180822</id>
+    <book>
+  <id type="integer">15881</id>
+  <isbn>0439064864</isbn>
+  <isbn13>9780439064866</isbn13>
+  <text_reviews_count type="integer">31867</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KlY-hIN06yK2_7Y8_mQVig</uri>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+  <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474169725m/15881.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474169725s/15881.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets</link>
+  <num_pages>341</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>2251621</ratings_count>
+  <description>The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike&lt;br /&gt;&lt;br /&gt;And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.&lt;br /&gt;&lt;br /&gt;But each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?&lt;br /&gt;&lt;br /&gt;--jacket description</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>21364220</ratings_count>
+<text_reviews_count>523062</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="306882008" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 08 11:34:05 -0800 2019</date_added>
+  <date_updated>Fri Mar 08 11:34:06 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2743180822]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2743180822]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2743180234</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn>0439554934</isbn>
+  <isbn13>9780439554930</isbn13>
+  <text_reviews_count type="integer">68974</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1474154022m/3.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1474154022s/3.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>5803565</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>21364220</ratings_count>
+<text_reviews_count>523062</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="306882008" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Mar 08 11:33:31 -0800 2019</date_added>
+  <date_updated>Fri Mar 08 11:33:36 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2743180234]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2743180234]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

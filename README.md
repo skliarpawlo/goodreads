@@ -39,8 +39,14 @@ Compile and run from JAR:
     $ java -jar target/uberjar/goodreads-0.1.0-SNAPSHOT-standalone.jar <TOKEN> [<OPTIONS>]
 ```
 
+## Test
+
+```shell
+    $ lein test
+```
+
 ## License
 
 Proprietary.
 
-Copyright © 2018
+Copyright © 2019

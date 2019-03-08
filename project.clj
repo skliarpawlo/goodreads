@@ -12,4 +12,7 @@
                  [aleph "0.4.4"]]
   :main ^:skip-aot goodreads.core
   :target-path "target/%s"
-  :profiles {:uberjar {:aot :all}})
+  :profiles {:uberjar {:aot :all}}
+  :source-paths ["src"]
+  :test-paths ["test"]
+  :dev {:resource-paths ["test/resources"]})
