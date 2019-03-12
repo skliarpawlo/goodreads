@@ -15,13 +15,18 @@
         books-reading (d/chain user-books (filter-by-shelf "currently-reading"))
         similar-books (d/chain books-read
                                #(collect-similar-books % token))
-        banned-book-ids (-> (concat books-read books-reading) :id set)]
-    (d/chain similar-books
-             #(filter (complement (fn [banned-books]
-                                    (banned-book-ids (:id banned-books)))) %)
-             #(sort-by :average_rating %)
-             reverse
-             #(take n %))))
+        banned-book-ids (d/chain (d/zip books-read books-reading)
+                                 #(apply concat %)
+                                 #(map :id %)
+                                 set)]
+    (d/chain (d/zip similar-books banned-book-ids)
+             (fn [[similar-books banned-book-ids]]
+               (->> similar-books
+                    (filter (complement (fn [banned-books]
+                                          (banned-book-ids (:id banned-books)))))
+                    (sort-by :average_rating)
+                    reverse
+                    (take n))))))
 
 (def cli-options [["-t"
                    "--timeout-ms T"

@@ -13,14 +13,20 @@
                                           :title "Harry Potter Part 1"
                                           :link "http://goodreads.com/1.html"
                                           :authors [{:name "Joan Roling"}]
-                                          :shelves #{"reading"}}]))
+                                          :shelves #{"currently-reading"}}
+                                         {:id "2"
+                                          :title "Harry Potter Part 2"
+                                          :link "http://goodreads.com/2.html"
+                                          :authors [{:name "Joan Roling"}]
+                                          :shelves #{"read"}}
+                                         ]))
                    #'goodreads.api/collect-similar-books
                    (fn [books token] (d/success-deferred
                                       [{:id "2"
                                         :title "Harry Potter Part 2"
                                         :link "http://goodreads.com/2.html"
                                         :authors [{:name "Joan Roling"}]
-                                        :average_rating 4.3}
+                                        :average_rating 4.8}
                                        {:id "3"
                                         :title "Harry Potter Part 3"
                                         :link "http://goodreads.com/3.html"
