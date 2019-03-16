@@ -9,7 +9,8 @@
                  [org.clojure/tools.cli "0.3.5"]
                  [org.clojure/data.xml "0.2.0-alpha6"]
                  [org.clojure/data.zip "0.1.2"]
-                 [aleph "0.4.4"]]
+                 [aleph "0.4.4"]
+                 [org.clojure/test.check "0.10.0-alpha4"]]
   :main ^:skip-aot goodreads.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}}
